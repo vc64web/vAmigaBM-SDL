@@ -11,4 +11,4 @@ vAmigaBM is a fork of this project with an emphasis on bringing vAmiga to a vari
 No. This project is in a very early stage.
 
 
-[Seite1.html](Seite1.html)
+[Seite1.html](seite1.html)
